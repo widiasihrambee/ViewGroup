@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">MyFashion</string>
+    <string name="MyFashion">MyFashion</string>
+    <string name="move_jualan1">ROK MUSLIMAH</string>
+    <string name="dummy_photos">5 Photos</string>
+    <string name="dummy_value">RP. 80K</string>
+    <string name="stock">Stock : 4567</string>
+    <string name="seller">DiJual Oleh</string>
+    <string name="my_name">Widiasih Rambe</string>
+    <string name="content_text">Ready stock Rok Muslimah Trend
+Detail Size :
+● Panjang 74 cm
+● Lingkar pinggang 60 - 120 cm
+● Bagian bawah rok di cutting tanpa jahitan, full karet
+Material : moumbloe import ( tebal, adem,jatuh)
+Warna. :Merah Tua, Mocca, Navy, Balck, Biru  </string>
+    <string name="deskripsi_produk">Deskripsi Produk</string>
+    <string name="bahan">Bahan</string>
+    <string name="content_spec_bahan">bahan rok scuba pinggang full karet menggunakan karet lingkar pinggang</string>
+    <string name="size">size</string>
+    <string name="content_spec_size">Produk dengan ukuran P (Petite) dan S (Small) memiliki ukuran lebih pendek
+Anda hanya perlu mengikuti hitungan lebar pada tabel pengukuran yang telah disediakan.
+ </string>
+    <string name="kondisi">Kondisi</string>
+    <string name="content_spec_model_rok">Baru</string>
+    <string name="berat">Berat</string>
+    <string name="content_spec_tinggi_pinggang">150 gram</string>
+    <string name="buy">Beli</string>
+
+
+    <string name="move_jualan2">HODIE FASHION WANITA </string>
+    <string name="dummy_photos2">5 Photos</string>
+    <string name="dummy_value2">RP. 100K</string>
+    <string name="stock2">Stock : 3456</string>
+    <string name="content_text2">Hodie wanita  bisa berbagai macam modelnya, mulai dari
+         oversize yang biasa digunakan oleh para wanita ketika untuk Hangout dalam model oversize maka kita sebagai wanita akan kelihatan imut dan lucu dan jadi nyaman.
+          ayo kak segera diorderya</string>
+    <string name="deskripsi_produk2">Deskripsi Produk</string>
+    <string name="kondisi2">Kondisi</string>
+    <string name="content_spec_bahan2">Baru</string>
+    <string name="Size">Berat</string>
+    <string name="content_spec_size2">500 gram , Kategori Fashion Wanita</string>
+    <string name="warna">warna</string>
+    <string name="spec_warna">Pink Dusty</string>
+
+
+</resources>
